@@ -1,4 +1,4 @@
-# [Név]
+# HG
 
 ## Hogyan kezdj neki?
 
