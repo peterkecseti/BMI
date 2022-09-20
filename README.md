@@ -1,4 +1,4 @@
-# HG1
+# Kecseti Péter
 
 ## Hogyan kezdj neki?
 
