@@ -1,4 +1,4 @@
-# HG
+# HG1
 
 ## Hogyan kezdj neki?
 
